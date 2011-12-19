@@ -1,0 +1,402 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book
+  SYSTEM "/Users/da/tools/docbook/docbook/dtd/docbook.dtd">
+<book>
+	<info>
+		<title>Dreams &amp; Journeys: The Cathedral</title>
+		<authorgroup>
+			<author>
+				<firstname>D.a.</firstname>
+				<surname>Thompson</surname>
+			</author>
+		</authorgroup>
+		<date>01/01/2011</date>
+		<releaseinfo>1.01.00</releaseinfo>
+		<copyright><year>2011</year><holder>D.a. Thompson, Inc.</holder></copyright>
+		<cover>
+	    <para role="tagline">Dreams &amp; Journeys: The Cathedral</para>
+	    <mediaobject>
+	      <imageobject>
+	        <imagedata fileref="cover_image.png">
+	          <info>
+	            <othercredit>
+	              <orgname>BlueHead Publishing</orgname>
+	            </othercredit>
+	            <othercredit>
+	              <orgname>D.a. Thompson</orgname>
+	            </othercredit>
+	          </info>
+	        </imagedata>
+	      </imageobject>
+	    </mediaobject>
+	  </cover>
+	</info>
+
+	<acknowledgements>
+		<sect1>
+			<title>Author’s Note</title>
+			<para>“Dreams &amp; Journeys: The Cathedral (Part One)” is a work that was written for the purpose of introducing a very basic notion of what is commonly called the Christian worldview. It is an allegorical story set in the dreams of the main character, the Traveler.</para>
+	   	<para>This work came largely from my own desire to walk through and clarify my own faith (a never ending journey) as I have come to understand it through the collection of writings commonly called “The Bible.” That said, I also had hoped to fashion a creative and imaginative means to contemplate what are often very complicated concepts in this belief system.</para>
+	   	<para>Each of the characters the Traveler encounters are meant to represent ideas and conversations regarding basic concepts from this worldview. The dialogues between the characters also serve to address what are commonly asked questions of this belief. These are not meant to be elaborate discussions, but rather serve to facilitate the consideration of such matters and provide a hopeful path toward exploration.</para>
+	   	<para>It is my grave request that the reader extend me the liberty of errancy in this work. Like all other persons, I am seeking to journey toward what is an unrelenting conundrum: the certainty of truth. Still, though the journey may be immeasurably complicated, the benefit of its challenge is unmistakable. I pray others will continue to unceasingly champion the same journey.</para>
+	  	<para>Last, I would ask the reader to forgive the use of the masculine gender in reference to the "creator" in this work. It was a choice for poetic convention. In point of fact, within the Judeo-Christian worldview, the creator has never referred to “himself” as being male, or female, but wonderfully, as our human history records it, only as “I AM.”</para>
+			<para>Thank you for your consideration of this work. May God continually grant us the patience, empathy, and fortitude to valiantly maintain our often regrettably outgrown child-like curiosity, and so never apologize for unceasingly using the word “Why?”</para>
+		</sect1>
+		<sect1>
+			<title>About the Book</title>
+			<para>Many thanks to all of contributors to this work and DocBook example. In particular, I'd like to thank the following individuals, without whose contributions, this work would not be half as useful:</para>
+			<para>BlueHead Publishing is an independent publishing house using unique publishing to bring unique authors to a unique world.</para>
+		  <para>Visit us at <ulink url="http://blueheadpublishing.com/">blueheadpublishing.com</ulink></para>
+		  <para>
+				<ulink url="mailto:info@daproductionsllc.com">info@blueheadpublishing.com</ulink> 
+		  </para>
+		  <para>Cover and book design by 
+				<ulink url="http://dathompson.com/">D.a. Thompson</ulink> 
+		  </para>
+		  <para>This work is licensed under a 
+				<ulink url="http://creativecommons.org/licenses/by-nc-sa/3.0/">Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License </ulink>.</para>
+		  <para>All rights reserved.</para>
+		  <para>All source code, content, and media for this work are 
+				<ulink url="http://wiki.github.com/blueheadpublishing/dreamsandjourneys/">available online</ulink>.</para>
+		  <para>Please feel free to contribute, translate, copy, distribute, add some artwork, discover how an eBook is built, etc.</para>
+		  <para>UUID: bluehead-reli-dath-2011-0800200c9a66</para>
+		</sect1>
+	</acknowledgements>
+
+	<dedication>
+		<title>Dedication</title>
+		<para>To the brave soul who followed God's call to a small Bible College in ND, held up a black leather-bound book, and without presumption for my knowledge, started from the beginning, declaring, "This is a Bible."</para>
+		<para>Thank you, Mac, for letting me ask my intellectually honest questions. To my greatest relief they found a listening ear, an informed mind, and a heart of compassion.</para>
+		<para>Having now considered, conversed, and contended with so many great minds and works, I find myself often harkening to the memory of that small college and cherishing the reminiscence of my fellow youthful students of faith: brilliant, determined, passionate, chilled by the snow, fired by the Spirit of God.</para>
+	</dedication>
+
+	<preface>
+		<title>Preface</title>
+		<para>It was by way of slumber that I happened upon fate, this journey, my pilgrimage of thought. Had heaven held her vision in any other manner, I would never have gained her favor. Such was my bequeathed fate, suffered upon by angels of enlightenment destined to be marooned somewhere between misery and fortune.</para>
+		<para>Now to account the acrid subtleties which burned so brilliantly in my mind. Heaven spoke to me and her wage required revelation.</para>
+	</preface>
+	
+	
+	<chapter label="One">
+		<title>The Chaos</title>
+		<para>Darkness was all I perceived at first: empty, cold, and alone. Expanse extending within expanse and endlessness extending within endlessness. Nothingness was not as I had imagined it, as something to be witnessed; it was nothing, if that were possible. I pained to find its end and cried out in a void which swallowed my sound and hid it in its shroud. I gasped at the silence, drawing in a crushing realization of sorrow, for I was without, with no one to hear, nothing to consider, and alone.</para>
+		<para>Then, either for fear or for flight I found myself stepping forward. Beneath my feet I discovered there was some surface to walk upon. Relieved to find a method of escape I began to move ever more quickly with each step. Sounds of voices echoed from distant places, calling from the darkness, saying words I could not comprehend. The air was crisp, dry and thin. It seemed to produce a great thirst in me as I walked on and on.</para>
+		<para>Whereas, at first, all I could distinguish was darkness, soon my eyes adjusted. I perceived in the distance small glimmers of light that seemed to flicker and move. In fact, as I focused more clearly on one directly ahead of me I noticed it was moving closer and closer to me. I stopped my walk and became at once afraid of what may be causing this light to approach.</para>
+		<para>Soon I discovered that it was not a light, but a flame which came from a lamp held by some person approaching. I stood perfectly still hoping that they would not see me in the darkness but would pass me by. I would have preferred the naiveté of the darkness to this mystery. Instead, they came upon me with great speed.</para>
+		<para>“Come with me, Traveler,” said the voice of a young child.</para>
+		<para>I had not expected to hear a child’s voice. This was a place of darkness. It seemed unusual, even unsafe for such a young person. The child was clothed in a robe which seemed a radiant white against the light of the flame. But as it came closer I discovered that its face was of no particular beauty, but instead seemed scarred. Unsure of the reality of this apparition I reached out and felt before me to test its reality.</para>
+		<para>“Take my hand,” spoke the child as it reached out toward me.</para>
+		<para>The cold fingers grasped my hand tightly. My skin prickled with fear. I tore my hand away and jumped back, shouting in a trembling voice, “Who are you?!”</para>
+		<para>“I am a traveler like yourself. I offer you understanding, but you must come with me. Do not linger here or you will become like the voices you hear in the distance. I came for them too, but they did not follow. Will you come?”</para>
+		<para>“Who are you and why are you in this place? If I follow you where will we go?” I asked.</para>
+		<para>“It is not yet time for you to ask these questions, but I will lead you to a place where darkness cannot hide. There you will ask the questions you desire, but for now you must trust. Yes. Do not trust simply because I am here, or because I hold this meager light, but because I offer you this opportunity. However you must be silent and attentive to my lead or I will lose you in this void.”</para>
+		<para>“Then take me there. I will follow. I wish to be free of this place and my mind is filled with curiosity. I will trust,” I answered.</para>
+		<para>So I reached out and took the cold hand. The young child began to lead me on through the darkness, stating, “Be mindful of your step, fellow traveler, for there are many sharp and treacherous things in this place.” We hastened stopping only briefly from time to time so the child could look upon a parchment of some sort; then would quicken our pace again.</para>
+		<para>As before, I began to become quite thirsty from the dry air. I asked the child, “Please. Do you have even a small amount of water? Our walking and this air have made me quite thirsty.”</para>
+		<para>The child reached from within its robe and revealed a flask which shimmered a brilliant red against the lamp’s flame. “Drink this Traveler, it will quench your thirst for now. But soon we must journey to a place where you may gather your own.”</para>
+		<para>I took the flask from the child and placed it to my lips to drink. I was surprised to find the contents to be warm in this cold place, tasting sweet as nectar, quenching my thirst with only a small amount. I gave the flask back to the child who hid it away and quickly led us on.</para>
+		<para>As we continued I began to distinguish a brighter light off in the distance, though it seemed clouded in the darkness. It was originating from a building. The brilliance emanating from it seemed to reach out to me. I felt as if it was calling me, drawing me to it.</para>
+		<para>To my greatest relief we came quickly upon it.</para>
+	</chapter>
+
+	<chapter label="Two">
+		<title>The Cathedral</title>
+   	<para>I found myself standing on the doorstep of a large stone building. I supposed it most resembled a cathedral, yet there was no air of grandeur, nor did it tower like the many cathedrals I had witnessed before. It was quite plain by sight, almost purposefully so. In fact it seemed to wink its portrayal with a sort of irony, as if to mock the very contents that it held.</para>
+	   <para>I had become so enthralled with the building that I had not noticed: the hand and the young child that had led me were nowhere to be seen.</para>
+	   <para>“Traveler, why have you come?” bellowed a voice that caused the hair on my neck to bristle. There was a guard just to the left of the door that I had not seen. He was suited in an armor that seemed to hide itself in the stone of the building. Had he not spoken, I would not have seen him standing there.</para>
+	   <para>“I do not know where I am sir, or why I am standing upon this doorstep. I have surely fallen into a deep and troubling sleep from which only heaven may now awake me.”</para>
+	   <para>“From where have you come?” he asked.</para>
+	   <para>“Sir, I have come from a place of emptiness. I was gripped in the pull of darkness and chaos. I have never felt such aloneness and despair. A young child took my hand and led me to this place. And now I have come upon it and find myself here before you.”</para>
+	   <para>Almost as soon as I stopped speaking he began, “It is from the chaos that you came. All persons have come from nothingness. It is our commonness and it is yours as well. You are and that is your beginning. Now from here journeys your responsibility and from here determines your understanding.”</para>
+	   <para>“But sir,” I asked, “I do not know who you are or where I am. I have only just now come upon this building and have found it to be of such curious luster. I feel it begs me to enter. I…”</para>
+	   <para>The guard interrupted, in an almost annoyed tone, “I too am a traveler, one who has been tasked to give watch to this dwelling: to see that none should enter, except they be qualified and worthy; to guard against those who would claim falsely their cause. These doors will open for no person except that they be worthy and that I shall agree.”</para>
+	   <para>“I would enter, guard. For I am curious to know its contents.”</para>
+	   <para>“Are you worthy?” he inquired.</para>
+	   <para>“I am not,” I replied. At once, I was taken aback by my own honest speech.</para>
+	   <para>He continued his questioning, “Do you trust?”</para>
+	   <para>I did not understand what he asked me, but just as before the words came to me as if some stranger spoke in my stead. “I do not.”</para>
+	   <para>“Then enter, and be received.” whispered the guard in low tones, difficult to hear.</para>
+	   <para>“Tell me how I may enter?” I inquired.</para>
+	   <para>“Upon the barren breast of honesty does a person begin their journey. They must not take any precious thing with them, but enter naked, except for the most modest form of covering. For they should not think that they possesses any one thing that is truly their own. Their feet must not be covered, lest they presume the path upon which they walk. They must enter without sight, lest they gaze upon that which appears only to the blinded.”</para>
+	   <para>With sudden honesty I replied, “Then I am without, so I am afraid I cannot enter. For I am not now naked, nor are my feet uncovered, nor am I blind.”</para>
+	   <para>“What you have spoken is honest and true. He who is from before our time needs no great person to see what you will see. It is his pleasure to entertain those meek of spirit. Yet, be mindful. If you enter this dwelling, if you see, if you understand, you will gain no indulgence. No. You will gain an eternal torture. For you will be the most restless and the most weary of persons. Bliss will never again be your lover. No. She will spite you as your enemy.”</para>
+	   <para>He continued, “You may enter, but know this. There is only one owner of this building. He is the one whose name is with us. It is he we beheld, the one of a most barren breast. With our own eyes, we saw further light, and with our own hands, we touched three great lights. Upon this very threshold his name is commanded and to the one who wills it, a further truth awaits.”</para>
+	   <para>I gazed upon the base of the door. Words in some unknown script were written upon it.</para>
+	   <para>
+	      <inlinegraphic fileref="script.png" /> 
+	   </para>
+	   <para>“Sir, I cannot read these words for they are in a language I have not learned.”</para>
+	   <para>The guard explained, “The language is one covered from all men, except for those in hiding who are covered by a lamb’s sacrifice. With wisdom alone shall a person ever read its meaning.”</para>
+	   <para>“Can you tell me what it means?” I exclaimed.</para>
+	   <para>“I am only the guardian of this lodging who has been called to attend to your entrance.”</para>
+	   <para>I pressed on, “Then, with eyes that are blind, thirsting for light, with ears that are longing for learning, and with a tongue starved for inquiry, guardian, I would enter.”</para>
+	   <para>“Then enter into a pilgrim’s progress. Upon this door’s opening you will enter into the Room of Preparation. It is a shelter of darkness, empty of all light. In it you will rid yourself of all which you consider your possessions. Do not be afraid, but do as you are told. You will be a friend there, and will suffer no harm. The Deacon will see to your journey.”</para>
+	   <para>Just as soon as he stopped speaking, he reached to the door, grasped the large cast-iron knocker and rapped on the door with a certain number of distinct knocks. I witnessed the door open with a slow and deliberate task. The hinges cried out as if to beg me to attend to their age and to their rare use. I could not see what lay within. Only darkness and uncertainty stood before me.</para>
+	   <para>Fearful of the very uncertain path ahead of me, yet curious to gain entrance, I stepped across the threshold.</para>
+	   <para>So began my journey.</para>
+	</chapter>
+
+	<chapter label="Three">
+		<title>The Room of Preparation</title>
+		<para>As I entered into darkness, the large door from whence came all light and my every knowledge, shut fiercely and tightly behind me. Again, as with the void before, I was overcome with a feeling of darkness. It was more than the absence of light: I had no bearing. The endlessness of this place seemed to be without completion. There were no walls, no distance, no time, only darkness. Even the sounds of my own breath seemed to echo past the long halls of great cathedrals. All at once, I began to fear and mourn all that I had held familiar.</para>
+		<para>“Do not fear your loss,” came a voice, whether from a place distant, or near, I could not tell. “You are safe here, pilgrim. I am a traveler who has been tasked to oversee your journey. My name is Deacon.”</para>
+		<para>I inquired, “Is this not one building? From where shall I come, and to where shall I go?”</para>
+		<para>He spoke again, “Do not be led astray. Not all journeys lay along paths of stone. You are destined for greater and more noble travels. Kings and their fortunes have longed for lesser ways, but you shall travel further, you shall gather riches untold, yours will be destinations reached by mortal few. And once you have traveled,  no wage will meet your worth. Though you are of low estate now, soon you will possess what no riches may afford. All persons, foolish as they are, will wonder at your wisdom, though this path requires only a heart of humility. But that is a cost which too few will measure.”</para>
+		<para>He paused, then continued, “You are right to ask from where you come and to where you go. This is a place of preparation, and, lest a person consider their beginnings, they will never enter into this dwelling, nor the path to which you will wander. You will meet those who did not prepare as you will. They did not empty themselves of that which clouds their perception. They have lost their way. They aimlessly wander back and forth in this lodging, looking for wanderers to join them in their loss and loneliness. They are those who have neglected their journey and have dismissed the words of the great thrones. Consider your path and do not falter.”</para>
+		<para>Feeling a hand upon my shoulder, he continued, “As to where you are going, it is along the path of knowledge and understanding. You will behold four great thrones upon which are seated four apparitions of truth. You will meet Revelation’s Art, Judgment’s Scale, Mercy’s Sorrow, and Virtue’s Quandary. These are our most trusted fellows, the pillars of our plan. You must hear their words and glean what you can from them. Learn, ask, and test them. They will withhold no understanding from you, but will speak as they have been commanded. Come now, let us set aside our conversation, and prepare you for your journey”</para>
+		<para>Feeling a bit more comforted, I inquired, “What is it I should do?”</para>
+		<para>As the hand was lifted from my shoulder, he said, “It is time now, pilgrim. Rid yourself of all your belongings. They are of no use here. They will only burden your journey.”</para>
+		<para>“But what will I wear?” I asked.</para>
+		<para>He continued, “Reach before you and find a tunic for your covering. It is a simple cloth, having no color and no image upon its fabric. You will enter into this journey with a simple purpose. This covering is given to you for your journey. It is to remind you that even the means to your basic covering are not of your own accord, but are given freely to you. Come now. Clothe yourself.”</para>
+		<para>So I removed of all that I had brought with me. Then I reached forward and found before me a single cloth of a length to cover my whole self from neck to ankle.</para>
+		<para>“Deacon, I have found this floor to be coarse and without comfort. May I have something to cover my feet?”</para>
+		<para>He retorted, “You must not. This path must be known to you, and, coarse as it is, you must continue to walk it. Kneel so that I may place this blindfold upon you.”</para>
+		<para>Plaintively I asked, “But, Deacon, why do I need to be blinded?”</para>
+		<para>He answered, “You must enter into this dwelling with no sight, save that which will be given to you. It is his delight to give sight only to the blind. Once you have asked, you will be given. For those who seek shall find.”</para>
+		<para>I knelt and was blindfolded. Then, upon standing, the Deacon took my arm and led me for what seemed far too great a distance for the building’s outward appearance. We paused for a moment. I heard a certain number of distinct knocks, and then the sound of a great door opening. We continued our pace and then, all at once, we stopped.</para>
+		<para>A great voice called, “Ask, and you will receive; seek, and you shall find; knock, and the door will be opened.”</para>
+   	<para>Only silenced seemed to follow and I wondered if it was I who was supposed to speak. Hesitantly I replied, “Then I ask for sight, that I might see where I have been led, and to what end I have come.”</para>
+	</chapter>
+
+	<chapter label="Four">
+		<title>Revelation’s Art</title>
+		<para>With a great clap, which echoed like thunder throughout unknown caverns, my blindfold was removed. My eyes pained with the brilliance of light that poured over me. I had never known such a sight. The overwhelming intensity of it so overtook me that I worried I might not see anything at all, perhaps ever again.</para>
+		<para>Soon, to my relief, my eyes seemed to adjust. I discerned that I was in a great and vast chamber, whose ceiling appeared to reach upward into heaven itself, far too distant than it could have appeared from the outside. Before me sat four great thrones, one on each wall of the chamber. Before them, in the center of the room, rested a great white altar, upon which a large book was laid. The brilliant light that filled the room came flooding from the book. Great streams of light flowed from the book to the thrones. Each throne became illuminated by it, as if they drew their light from it. From the center of the book shone an even more brilliant column of light, which extended far into the heavens, to a distance beyond my ability to see.</para>
+		<para>The Deacon commanded me to look down upon my feet and not to look up until I was told. He then took my arm and led me in quite an odd and meticulous fashion. We moved forward, then sharply at right angles till we came directly before the first great throne. The Deacon took the staff from under his arm and rapped it on the floor in front of the throne a certain number of distinct times.</para>
+		<para>“Who comes here?” boomed a deep and foreboding voice.</para>
+		<para>The Deacon answered him, saying, “It is a traveler from without who desires sight.”</para>
+		<para>“Has he rid himself of all his possessions? Has he been prepared?”</para>
+		<para>“He has rid himself and he has been prepared?” affirmed the Deacon.</para>
+		<para>“Then let him ask as he will. I will hold no reserve, but will give as I have received. Look upon me, Traveler, and tell me what you behold.”</para>
+		<para>I looked up and saw the first great throne and the one who sat upon it.</para>
+		<para>“I see you, a man of old and tired stature, whose white hair and long beard give evidence to the many years in your possession. Your throne is of fine and meticulous masonry, scaled in what seems to be perfect dimension, made of the finest marble I have ever seen. Upon its base are engraved the words, “HE IS NOT SILENT.” In your left hand, you hold a brush with which you appear to be painting a beautiful landscape upon a great canvas. In your right hand, you hold a pen with which you appear to be writing in a book. You are draped with what appears to be a cloth fit for the grave. Your eyes do not look upon either the painting, or the writing, but into the light that comes from the book which is laid upon the altar of this room. Neither have you diverted your sight even to gaze upon me.”</para>
+		<para>He replied, “You are most observant. This will serve you well. Ask as you will, for I will not reserve any one thing that I possess. He has commanded me to do so, and I must obey him. But unless a person ask, they will never know; and unless they ask the right question, they will never possess wisdom.”</para>
+		<para>“Then I will ask only as I can, for who knows what question is correct until they have tested its answer and found it to be of use. Who are you?” I asked.</para>
+		<para>With deliberate timing he spoke, saying, “I am Revelation.”</para>
+		<para>“What is your purpose?” I inquired.</para>
+		<para>“I have only one purpose, to reveal that which he commands of me and nothing else.”</para>
+		<para>I questioned further, “What do you paint with your left hand?”</para>
+		<para>Motioning his head slightly to the left he stated, “Come closer, and behold what I paint.”</para>
+		<para>I carefully approached the painting and gazed upon the most beautiful landscape I had ever seen. A vast expanse of land spread across the canvas, accenting spectacular vistas of forests and fields. As I gazed deeper into the painting I began to notice that there appeared to be wind blowing in the trees. Yes! The painting moved and was alive. It was as if I were not gazing at a painting at all, but at an actual landscape.</para>
+		<para>“It is real and alive!” I gasped.</para>
+		<para>“It is creation. Behold its beauty, its complexity. Is it not masterful?”</para>
+		<para>“It is beyond my description,” I breathed.</para>
+		<para>I felt a deep emotion of adoration come over me. I was gazing upon such a wonder of mastery. “Exquisite! But why do you show me this painting?” I asked.</para>
+		<para>“This is the creator’s art and all people see his painting. It is his masterpiece, the canvas of his reflection, his image, his character, and his being. Upon its constructs and forms are written the laws by which all persons fashion their governance and innovation.”</para>
+		<para>Revelation continued, “It is my testament, Traveler. He has commanded me to share it with you. See and understand. Think upon its structure and its form. Can you name its equal?”</para>
+		<para>I pondered. “I cannot, for there is no more masterful work than this that I have ever seen. I could not wager that any person might find or create its equal.”</para>
+		<para>Reflecting on the painting, I questioned, “Revelation, you have claimed that this mastery of creation and existence is by the hand of a creator. Might I ask how a person should know that it was in fact a creator who set them to work and order? People are certainly able to observe nature, to be astonished even at themselves as existing. Certainly they must be astounded at their own physical complexity. But, when considering their beginnings, couldn’t they consider that there may not have been a creator at all?”</para>
+		<para>“Traveler, if indeed you were to consider humanity as rational surely they would have to consider that there are only two possibilities when they look at the reality of their existence."</para>
+		<para>“Which two possibilities are those?” I inquired.</para>
+		<para>Revelation replied, pausing with deliberate emphasis, “That either existence had a beginning point and so something came from nothing, or that existence is without a beginning and so something is eternal.”</para>
+		<para>“I don't suppose it is reasonable to conclude that something came from nothing.” I reflected.</para>
+		<para>He continued, “Humanity is bound by the reality of what they observe and even what they can reason. They cannot escape the truth of it. And so they cannot escape this problem: that they are held captive to that which is beyond their reason and proofs, that there exists a necessary uncertainty, the unobservable and the unexplained. They are bound to the problem of the eternity of existence.” He raised his head in a scoffing fashion, “It is utter vanity then that humans would presume there has been no greater being in all of eternity, in all of existence than themselves.”</para>
+		<para>“I suppose it is reasonable to consider that there is a being who has been around for longer than ourselves, and perhaps for so long as to be considered eternal from our limited point of view. Surely one who has been around for such length must possess greater knowledge and abilities than we,” I surmised.</para>
+		<para>“Yes, Traveler. And it is the eternal of existence who has left the imprint of himself, his very being, in his creation,” he answered.</para>
+		<para>“Then humanity is able to discover the creator from existence alone? Certainly this cannot be. For some would see the very beginnings and construction of existence to be by the hands of chaos and survival. Still others have fashioned entire constructs and diversions of belief from this order,” I pondered.</para>
+		<para>“Creation is incomplete, Traveler. It was not meant for such purposes. There are none who may prove the creator by his creation alone. For how can the creation prove anything except what is in their power to reproduce?”</para>
+		<para>Confused, I asked, “Then how can they know what you speak of? It does not seem like we are able to speak to this creator face to face, to prove his existence. He does not walk with us.”</para>
+		<para>Revelation hesitated and spoke in almost a whisper saying, “No. He does not walk with you, though he did at one time, before you stole yourselves from him. But that is not mine to disclose.” Then looking to his right he spoke saying, “It is not necessary to speak with the creator. He has not been silent, but has already spoken, yes, even demonstrated himself to you. Behold my right hand, and what I am writing.”</para>
+		<para>I walked over to his right hand and witnessed him writing words in a book. Just then I noticed that a few moments after he had written them, the words disappeared.</para>
+		<para>“I have seen the words you are writing, but they continue to vanish.” I stated, confounded.</para>
+		<para>“The words are those of the creator himself. They are possessed nowhere in creation, but are given from him and evidenced by his unique abilities. These are the frail words of those who have heard, who have seen and who have spoken of his wondrous and unique works. These words are written in the book which is laid upon the altar. I must keep my gaze upon it so I do not forget the words it contains. For just as soon as I write them, the words are being erased. And as soon as humankind is spoken to, they forget. They are a simple being who is easily turned, like a wave of the sea which is tossed about by the wind. Therefore the words of the creator must ever be before them, retold, and revisited, for they are a forgetful creature and there are many who would offer their own words: words of self-serving intentions and ignorance.”</para>
+		<para>Mystified, I rebutted, “Truly no person should refuse the words of their creator. But I must inquire how a person may judge what you write. There are many who write and many who speak. How can they discern that these words are accurate where others have spoken of their own account?”</para>
+		<para>“Your question is of great importance. He has not left you devoid in your quest. Behold the cloth that is draped across my body. It is a grave cloth, is it not?”</para>
+		<para>“Yes, I suppose it is,” I concurred.</para>
+		<para>“Traveler, how may the creator demonstrate to his creation that it is he who speaks and no other human in creation?”</para>
+		<para>Shyly, I answered, “I suppose he must somehow prove it with some act, which no creature but the creator can do. But even if the creator performs such an act, will a rational person accept such a witness from another person? We can only judge the claims of others by what we can justify with evidence.”</para>
+		<para>“Indeed. Yet it was evidence that the creator has prepared and given. Do you not see the grave cloth that is draped over me? Has he not demonstrated such an act as no one in creation may perform? Has he not hastened history to pen the account of his own mastery over creation and death? For all must die, but none has ever lived again.”</para>
+		<para>I scoffed, “Resurrection?! It is not a probable event. We do not see it in all of creation. They will surely doubt its possibility.”</para>
+		<para>Revelation quickly spoke, “Yes. And rightly so, they are a creature purposed for such doubts. So unfortunate then that humanity might hasten such improbability, and spare no faith in their sole aspiration of chaotic origins. But the same scale of probability is locked tightly away when they consider the possibility of a creator. Understandably so. They know that a creator’s presence requires their contemplation. They instead choose not to consider, to their own loss, for their abstaining grieves the creator who longs for them.”</para>
+		<para>Doubtingly, I queried, “So then, if the Creator has actually spoken, proven his authority, and provided evidence, who can resist these words?”</para>
+		<para>“Do not be presumptuous, Traveler! These are not simple things. To those who are meek of nature, who desire to understand without protest, they are welcome. But to those of a stubborn will and a prudent mind, it is his great pride to welcome their inquiry. For Traveler, Truth finds the greatest of worth in the mind of her sceptic.”</para>
+		<para>He sighed, looking again to his right. “Recall the words that disappear. These words must always be shared, again and again. For they quickly forget. You, Traveler, must share it with them. But first, you must visit the others. They have much to share with you. You must ask all that you can of them, for they will answer.”</para>
+		<para>He continued, “Deacon, give him one of the scrolls I gave you. The creator is not silent and his words must be ever before this traveler. He is now tasked as I am, to write and to reveal. Now, take him to Justice. He has learned how the creator has spoken. Now he must learn the exacting of the creator’s scale.”</para>
+   	<para>Then the Deacon pulled from beneath his robe a parchment made from what looked like animal skin and commanded me, “Take this scroll. It is yours.” He then took my arm and instructed me once more to gaze upon the floor. I did as he said, and found myself again walking in the strange pattern of angles that we had traveled before to meet Revelation.</para>
+	</chapter>
+
+	<chapter label="Five">
+		<title>Justice’s Scale</title>
+		<para>We were walking for a great distance in the chamber. Being of such coarse nature, the floor began to pain my feet a great deal. In fact, it became almost unbearable. I turned to the Deacon and asked, “Please, Deacon, my feet are not used to this path and it is quite distracting. May I have some covering for them or perhaps slow my pace?”</para>
+		<para>The Deacon rebuked me, saying, “Do you find yourself to be of a quality greater than those who came before you, Traveler? They endured such triviality as you. Do you consider yourself of a nobler nature than those who suffered to the point of death for what you will gain? Be quiet! You will not be burdened beyond what you can bear. Do not look up again, but be mindful of your path.”</para>
+		<para>So I looked down upon my feet again as we continued, angle upon angle, to the next great throne.</para>
+		<para>At last, we came to a stop and again the Deacon took the staff from under his arm and rapped purposefully with it a certain number of distinct times.</para>
+		<para>“Who comes here?” spoke the tender voice of a woman.</para>
+		<para>Again, the Deacon answered, “It is a traveler who desires to learn of you.”</para>
+		<para>“Has he discerned Revelation’s Art?”</para>
+		<para>“He has asked and he has received and he seeks to ask again,” the Deacon responded.</para>
+		<para>“Then let him ask as he will, for I will hold no reserve but will give as I have received.”</para>
+		<para>Then she spoke to me, saying, “Look upon me, Traveler, and tell me what you perceive.”</para>
+		<para>I looked up and saw the second great throne and the one who sat upon it.</para>
+		<para>I began, saying, “I see a young and beautiful woman, dressed in a brilliant white robe of fine linen. Your right eye appears to be a diamond of great purity and brilliance. Over your left eye there lays a covering of cloth that seems to conceal your eye’s absence. Your throne is of a most brilliant purity and seems to be carved from a single diamond. Upon its base are written the words, “EYE FOR AN EYE.” In your left hand you hold a scale in perfect balance that holds what appear to be two precious stones. On one side of the scale is a stone that resembles your right eye. On the other side there appears to be a stone of equal quality, but whose luster shines red. In your right hand you hold a shepherd’s rod. The arm that holds it is bound by three strong cords. In your lap there lies a large book with a pen which continues to write in its pages.”</para>
+		<para>“Traveler, know this. You may ask as you wish and I will reveal as I am able. But my knowledge and my task are without remorse.”</para>
+		<para>“Are you Justice?” I questioned.</para>
+		<para>“I am called Justice, for my purpose is just and right.”</para>
+		<para>“Forgive me, but why do you mention that your knowledge and task are without remorse?”</para>
+		<para>Patiently she replied, “Many have come before you, Traveler. You will meet them on your journey. Many have asked as you will and have heard what I share, but they have not desired to acknowledge its merit. The reality of it pains them for their actions are called into account and are no longer without consequence. Their disregard is foolishness and folly. They have not realized that their stubborn arrogance will not release them from my purpose.”</para>
+		<para>“What is your purpose, Justice?”</para>
+		<para>“I have been called to attend to the creator’s debts. He has tasked me to measure on the Scale of Right, to exact what is owed him, and to separate out those who have been written in his book,” she stated.</para>
+		<para>“Justice, may I ask who owes this debt to which you tend and how they have accrued it?”</para>
+		<para>“Behold the place where my eye once dwelt.”</para>
+		<para>“Yes. I see that it no longer remains and I find myself distraught to look upon it. How did you come to be in such a state?” I haltingly asked.</para>
+		<para>“It was humankind who reached out and plucked my eye from its place.”</para>
+		<para>Appalled, I questioned, “Justice, tell me. How is it that they have come to accomplish such a ghastly act?”</para>
+		<para>Looking down toward me she began, “The creator who fashioned their existence has from time immemorial lavished his affection upon them. It was his pleasure to attend to their creation. From the dust of the earth he intended them unique from all other creation, the greatest of his good and mastered work. Such was his devotion that he even cast their mold after the very likeness of his being, his person.”</para>
+		<para>She continued, “They were given a most unique privilege among all of the creator’s creatures. Within them was placed the gift to reason. Their's was the ability to choose freely their companionship to the creator. It was his decision to do so, for he longed to commune with a creature who could purpose to love him.”</para>
+		<para>Warily, I asked, “Justice, forgive me, but what manner of choice did humankind possess in their companionship with the creator? Choice would seem to presume the presence of some option. But what option could they have chosen if they and all of creation were good? Love would presume the freedom and ability to act in some wrong manner toward someone.”</para>
+		<para>Pleased, she answered, “Your question is wise, Traveler. It was for that reason that the creator placed in the center of his creation the measure for their choice, a tree which provided their ability to offend. It was this tree that the creator compelled them not to eat of. By so doing, he gave them the ability to demonstrate choice. Their act of agreement then demonstrated their desire to commune with and to love the creator. By doing so they would continue the joy of living in their state of creation. However, their choice to disregard this simple request would sever them from the creator’s ability to commune with them. It would introduce the misuse of nature, creating an unintended and injured state of creation.”</para>
+		<para>“So humankind desired what was not theirs to possess. Rather than seeing the tree for its purpose of choice and love for their creator, they were deceived. They fashioned in their mind that they would be governed by no one; though, the creator never desired to govern, only to commune. So they reached toward the tree and took from its fruit and ate of its consequence of offense. So they reached to the creator himself and tore from him the creature whom he loved. For the creator would no longer be able to dwell with them in their consequenced state of giving and receiving injury. It was then that humankind snatched the eye from me, and it was then that the cost of it was placed upon the Scale of Right.”</para>
+		<para>“I, Justice, must now demand collection for what man has stolen, an eye for an eye. I will exact from humanity what they have taken: a creature without corruption and eternal.”</para>
+		<para>“But Justice, what person can pay such a cost? For who among us may claim to be without error? Even upon a person’s birth do they find their body genetically corrupted.”</para>
+		<para>Sighing, she replied, “Indeed, Traveler. There is no person who may afford this debt.”</para>
+		<para>“Then how will they pay what is owed their creator?”</para>
+		<para>“They must meet the cost, an eye for an eye,” she answered.</para>
+		<para>Shaken by her words, I whispered to myself, “This is a grim state. It is hard to reconcile a creator who loves his creation and yet would exact such a cost.”</para>
+		<para>She retorted, “Traveler, be warned! Have I not said that my knowledge and task are without remorse? Such humor humanity possesses, that they would beg for Justice! They beg not to be righted, but instead to blind and to be blinded. Let no one pray for Justice, for justice will be granted, and that forthrightly.”</para>
+		<para>Shaking her head she warned, “Do not be deceived. It was not the creator who has wronged humanity. It is humanity who has hastened their own demise. And such a cost: that all of creation should suffer from their selfish ambition. They caused the scale to be unevened and it is their debt to pay.”</para>
+		<para>Disconcerted, I looked over to her left hand and the scale in it. “Forgive me, but as I look upon the scale in your hand I do not find it to be uneven. Rather, it is in perfect balance. Your eye is on the one side; but on the other, a different gem of a red luster is placed.”</para>
+		<para>“Yes,” she breathed. “The scale has been evened and the debt reconciled.”</para>
+		<para>“But who has done this, Justice? Who has paid this debt? Who in all creation was even able,” I questioned, astounded.</para>
+		<para>Came her simple reply, “The creator himself.”</para>
+		<para>“But how did he do this?”</para>
+		<para>“He has reached up and plucked out his own remaining eye. For he alone, being eternal and without offense, was of such a nature to satisfy the debt. He took upon himself the form of his creature, permitting them to make payment with his own life. Understand, it is the eye of Mercy that lies upon the scale as payment. He has met an eye for an eye. What was perfectly demanded has been perfectly met.”</para>
+		<para>Almost speechless, I said, “Then humankind is free from their obligation?”</para>
+		<para>“Their debt has been met, but the creator has left it for man to decide. It is humanity’s choice to receive his gift of reconciliation just as it was humanity’s choice to refuse it. They are a creature of free choosing. The creator has always desired their love, not their obligation. Behold the rod which I hold in my right hand, and the book which lies upon my lap.”</para>
+		<para>“The rod appears to be a shepherd’s rod and the book is authored by a pen which appears to be writing names,” I observed.</para>
+		<para>“Behold the Creator’s Staff. It is indeed a shepherd’s rod, for I have been tasked to separate the sheep from the goats, the wheat from the weed, yes, even the chosen from the nay-choosers.”</para>
+		<para>“Justice, who will you separate and when will this task be accomplished?” I wondered.</para>
+		<para>“I shall wield this staff soon Traveler. With its length I will reach out and call out all from creation who have trusted and reasoned what Revelation has demonstrated.”</para>
+		<para>Curiously, I inquired, “What will be your measure be for this?”</para>
+		<para>She replied, “I will call out those who have been written in this book: who have clothed the naked, fed the starving, taken-in the stranger, given drink to the thirsty: those who, like the creator, have been merciful and have not required a person’s sacrifice. The pen which you have seen writes the names of those who have taken Mercy's hand. Those who have been written have been reconciled. Their debts will not be counted against them. Neither will I exact the creator’s debt from them. No, theirs will be a reward.”</para>
+		<para>“Please, Justice,” I begged, “Why is your arm restrained? What are the three cords?”</para>
+		<para>“They are the permissions of the other three thrones. Mercy must resist time no more. Virtue shall truly die. Revelation will lay down his brush and his pen. Upon that moment, my staff will move most quickly and accurately to attend to its purpose.”</para>
+		<para>“Come. Deacon, give to him a new robe: pure and brilliant as the rightness of the creator himself. Truly, Traveler, he has reconciled you. Your debt has already been paid once and for all time. And when he extends his eyes upon you, upon his own rightness will he now gaze.”</para>
+		<para>“You have learned of my exactness and now must discern Mercy’s Sorrow, for the creator longs for his creation,” she finished.</para>
+		<para>The Deacon held open a robe of magnificent purity. I placed my arms into it. Then the Deacon pulled the hood over my head and tied the robe around my waist. He then took my arm and, again, commanded me to look down upon my path, reminding me that I should not look up, nor become distracted by anything around me.</para>
+		<para>Following his bidding, I looked down and saw my feet, which had now become swollen and blistered. I continued following the Deacon as he led me in the strange and confusing path, worried about the further truth which would befall me, toward Mercy’s throne.</para>
+	</chapter>
+
+	<chapter label="Six">
+		<title>Mercy’s Sorrow</title>
+		<para>As we walked, a sound just off to my side distracted me from my walk. It sounded as if a man were calling out, but too faint to comprehend. I lifted my head to see who shouted.</para>
+		<para>The Deacon cried out, “Do not look up, Traveler! You must not!”</para>
+		<para>Puzzled, I responded, “But Deacon, who calls so loud? Why can’t I look upon him?”</para>
+		<para>“Did I not warn you of those who wandered in this chamber? It is a traveler who has lost his way.”</para>
+		<para>“Deacon, surely they can come with me on my journey,” I implored.</para>
+		<para>“No,” he answered back, “This journey is yours and you must complete it. The moment that you prematurely end your journey, you will be truly lost. You must first meet the other thrones. Then you will be able to assist him and the others. They are distracted, and have cut short their journey. If you listen to them in your naive state you will surely be led astray.”</para>
+		<para>Belligerently he tested me stating, “Choose now, Traveler. Will you follow my lead?”</para>
+		<para>I was weary to walk, burdened by the knowledge I had gained. Curiosity, it would seem, had greeted me with no fine courtesy. No. Apathy, for the first time, held a sort of attraction and the fruit of it tempted me as it never had before. Were it not for the burden in my heart to ask of the remaining thrones I would have turned to meet the wandering traveler.”</para>
+		<para>Exhausted, but anxious to continue, I replied, “I will follow, Deacon.”</para>
+		<para>“Then humble yourself, Traveler, and attend to my lead. I will guide you in a right path, for it is my duty to serve his will, and he desires for you to learn.”</para>
+		<para>We then continued along our path until we finally reached the next great throne. Again, the Deacon took the staff from under his arm and rapped it purposefully on the floor a certain number of distinct times.</para>
+		<para>“Who comes here?” came a voice which sounded remarkably similar to the voice of Justice.</para>
+		<para>The Deacon answered, “It is a traveler who desires to learn of you.”</para>
+		<para>“Has he exacted Justice’s Scale?”</para>
+		<para>The Deacon again spoke, “He has asked, and he has received, and he seeks to ask again.”</para>
+		<para>“Then let him ask as he will, for I will hold no reserve but will give as I have received. Look upon me, Traveler, and tell me what you gather.”</para>
+		<para>So I looked up and beheld the third great throne and the one who sat upon it.</para>
+		<para>“I am astonished to see that you appear to be the mirror-image, in beauty and likeness, of Justice. In fact, the only distinction I see is that your right eye bears a ruby which shines red. You also wear a bandage which covers the place where your eye once laid. You are weeping. Even now, your robe has become soaked from your tears. Your right hand appears to be reaching, opened and extended in front of you. Your left hand appears to be winding back the hands of a large clock. Your throne is made of the finest ruby and is pure in its luster. Upon its base are written the words, “SLAIN FROM THE FOUNDATIONS.”</para>
+		<para>“Ask as you will, Traveler.”</para>
+		<para>I began, “Surely, you are Mercy. May I ask what your purpose is?”</para>
+		<para>“I am the voice of he who is merciful. The worthless shall find their reward by my hand, for the creator has commanded me to lavish his fortune upon the disdainful and meek.”</para>
+		<para>“Justice has told me of the eye which has been taken from you. Indeed, it is a terrible cost. Is this why you are weeping?” I gently asked.</para>
+		<para>She corrected me, “I do not weep for what has been taken from me. Freely and with much planning did the creator purpose his own suffering, and by his hand he has plucked out his own eye to bear it upon the Scale of Right. From the foundations of the earth he has measured the cost for his creature. It was the cost of their free choice, of their ability to love and understand his love. That was his desire. He wished to possess a creature who might know of his uniqueness, his character: that he is truly merciful.”</para>
+		<para>“Mercy, I would think the creator would be angered at the consequence of man’s choice.”</para>
+		<para>Came the quick retort, “Do you presume the creator to be ignorant of the creature he himself created? You presume that man’s disobedience was a surprise to the creator. Had the creator been unwilling to sacrifice his very own life for his creature, he would never have fashioned creation. It was a cost he was willing to bear.”</para>
+		<para>I was perplexed, “But if he knew man would offend him, why would he bother creating him in the first place?”</para>
+		<para>“It is mysterious, is it not? Consider a being as great as the creator who would desire to fashion a creature by whose hands he would suffer. But such is his uniqueness, for we know none other like him. Such is the quality of love and communion he desires with his creature, that he would be so pained.”</para>
+		<para>“If you do not weep for what has been taken from you, then why do you weep?”</para>
+		<para>“I weep for creation, for its pain, for their suffering,” she remorsed.</para>
+		<para>“Then, Mercy, why would the creator, if he does so love his creation, allow it to continue in its destructive state?”</para>
+		<para>“Do you see my left hand?” she replied.</para>
+		<para>“Yes. Before the clock reaches high-twelve you continue to move back the hands.”</para>
+		<para>She continued, “It is the clock of time, and it will chime high-twelve most loudly. Yet, for now I must resist it for the creator longs for many to meet his mercy. Every minute measures yet another opportunity for his creature to be reconciled. He desires that they might be reconciled and that I might write them in his book.”</para>
+		<para>“But why would the creator wait? Surely he can end this all; and, by doing so, end man’s suffering and his own.”</para>
+		<para>“Have you not understood by now, Traveler? The creator desires man’s free choice of love, not man’s blind obligation. Yet the creator is bound by his own conditions and character. He will not offend himself. Nor will he offend his creature by violating his ability to choose. And so his creature is free to choose whether to love or to hate, to do what is right or to do what is wrong, to extend mercy or to require sacrifice. But he has planned creation’s end. When creation has found its purposed end I will resist time no more.”</para>
+		<para>She reached her outstretched hand toward me saying, “The creator knows his creature and has caused me to rescue whom I can, to gather from creation all whom he has rescued. With my right hand I reach to them. To all I offer my welcoming hand. Those who freely speak their choice, are written in his book.”</para>
+		<para>“But if the creator has rescued from all of his creatures those whom he desires then what choice does man have?” I asked.</para>
+		<para>“Traveler, do you presume to possess the ability to perceive the very mind of the creator? Do you possess the knowledge of creation such that the very outcome of every consequence is known to you?”</para>
+		<para>“No. Certainly not,” I firmly replied.</para>
+		<para>She questioned again, “And the creator who established your existence? Do you suppose he does not possess the knowledge of every consequence of his creation? His knowledge is inescapable to him. What do you think, that he fashioned this creation solely on the whim of chance?”</para>
+		<para>“No, Mercy. That is not reasonable,” I said, abashed.</para>
+		<para>“Then why would you presume that he would not know the every consequence of his creation; that he would not be cognizant of its choice, its desire? It was his choice to fashion creation knowing its full consequence and the horrid price he himself would pay. What lowly creature can know how the creator acts in creation? Those whom he rescues must then choose to follow him of their own free will and accord. What man possesses the mind of the creator? Humanity must only know that it is they themselves who choose and that they will be held accountable to that choice.”</para>
+		<para>“Come. Deacon give the traveler a flask, that he might take up my tears and drink of their fill. For the creator longs that you taste of his heart and know of his suffering for you.”</para>
+		<para>She finished, “Then, Deacon, you will take the Traveler to the next of the creator’s persons. He has learned of the creator’s pain, and now must understand Virtue’s quandary.”</para>
+		<para>The Deacon handed me a flask made of fine ruby and commanded me to gather into it the tears which fell from Mercy’s cheek. So I stepped forward and filled my flask. I then looked down upon my path and prepared for yet another journey to the next great throne. I followed the Deacon as he again led me, tired for all I had learned, toward Virtue’s throne.</para>
+	</chapter>
+	
+	<chapter label="Seven">
+		<title>Virtue’s Quandary</title>
+   <para>Nothing had prepared me for the challenge of my journey. As we continued on our path to the next great throne, I began to become overwhelmed. My mind swam in a sea of unknown consequences, realities and understandings.</para>
+   <para>Hesitant to ask, I spoke to the Deacon.</para>
+   <para>“Deacon. I know that we are bound to our task and I do not wish to cause you annoyance. I am concerned, however, that I have become quite overwhelmed. I fear that my further inquiry will be a vain attempt. I do not possess any great ability for learning. Rather, I am a man of a most meager mind. I have asked and received much more than I supposed I would. The journey has caused me great exhaustion. Even now, my feet have become cut, blistered, and suffer great pain.”</para>
+   <para>I paused for a couple of seconds and implored, “Please, I do not mean to complain. I am only concerned that I will not be able to finish this journey.”</para>
+   <para>The Deacon placed his hand upon my shoulder and spoke to me in an empathetic tone. “Your concern is not unfamiliar. Those who have traveled before you have suffered the same as you. But do not be discouraged. The creator who fashioned this great chamber, and who planned your journey knows your cost. He has even walked in creation’s humility. He knows what you bear, and has purposed you to measure the cost of your learning. What traveler values his destination if he arrives upon it by ease? You will favor what you have gained; but, for now, you must endure without yielding.”</para>
+   <para>He reassured me, “Come, we have even now arrived at the last great throne.”</para>
+   <para>Again, the Deacon took the staff from under his arm, and rapped purposefully on the floor a certain number of distinct times.</para>
+   <para>“Who comes here?” spoke the voice of a child.</para>
+   <para>The Deacon answered, “It is a traveler who desires to learn of you.”</para>
+   <para>“Has he understood Mercy’s Sorrow?”</para>
+   <para>“He has asked and he has received and he seeks to ask again,” the Deacon replied.</para>
+   <para>“Then let him ask as he will, for I will hold no reserve but will give as I have received. Look upon me, Traveler, and tell me what you perceive.”</para>
+   <para>So I looked up and beheld the fourth great throne and the one who sat upon it.</para>
+   <para>“I behold what appears to be a child: the very appearance of the one who led me from the chaos. You are sitting upon a throne which is of quite a simple construction. It is made of wood, and upon its base is carved, “ALREADY AND NOT YET.” You are clothed in a robe of the finest white material, surely a flawless cloth. It is brilliant in its purity. I am hesitant to acknowledge that your flesh appears scarred and haggard. Your face is composed in such a way that it seems to be decayed, and is quite gruesome to gaze upon. In your right hand you hold what appears to be an abacus, an instrument for mathematics. In your left hand you hold a lamp, which gives off a brilliant light.”</para>
+   <para>“Ask and understand, Traveler,” spoke the child.</para>
+   <para>“Please, are you Virtue?”</para>
+   <para>“I am,” he replied with a sigh of tired expression.</para>
+   <para>Struck with curiosity I asked, “What is your purpose?”</para>
+   <para>The child began, “The creator has called me to attend to those he has reconciled. They are his children, and a peculiar people.”</para>
+   <para>“Is that the robe of Justice you wear?” I inquired.</para>
+   <para>“Yes. It is the royal garment of the creator. From a single perfect lamb the fleece was taken, spun and woven. And so he has reconciled his chosen by Mercy’s cost. How he has clothed them with perfection! They are now without account, and are his royal family, heirs to all that he possesses, a wealth secured in the vaults of his eternal treasury,” the child affirmed.</para>
+   <para>“Virtue, I am hesitant to bring attention to this, but I am greatly distressed by the appearance of your face. You seem to be in a physical state of decay which is offensive to even look upon,” I timidly said.</para>
+   <para>“It is the very condition of the reconciled, Traveler. They are most gruesome in their current state, full of every licentious and malicious potential. They are shackled to its shame, a pain for perseverance’s pleasure.”</para>
+   <para>“But, Virtue, surely the reconciled are of a different quality than those who have not chosen to listen to the throne?” I asked, revolted.</para>
+   <para>“They are not!” The child rejoined. “You will find those who wander in these chambers who have neglected the truth of it. For though the debtors have been written in the Book of Reconciliation, they are not, as of yet perfected.”</para>
+   <para>Leaning forward, Virtue stated with intended measure, “Take note of this irony, Traveler. Those who have been already reconciled and given the robe of royalty are possessed still by the very essence and tendencies of creation’s ill consequence. They have not yet escaped the consequence of creation’s disobedience.”</para>
+   <para>Sitting back with an air of relief, he continued, “When Mercy resists time no more they will truly die to creation’s condition. At that time they will be given a new body and a new creation, without ill. The reconciled do not take rest in this life. Their hope must remain in the life to come, where they will be freed from all that distracts them.”</para>
+   <para>“Then the reconciled suffer the same as those who care nothing for Revelation, nor Justice, nor Mercy?” I asked, a bit disheartened.</para>
+   <para>Virtue confirmed, “Yes. They participate in the same creation as all others. Now, behold the abacus in my right hand.”</para>
+   <para>I gazed upon it. “Yes. It is an instrument for calculation.”</para>
+   <para>“It is the Abacus of Consequence, for every action bears its effect. A person reaps as they sow; what is done by you will be done to you. Even the reconciled are not free from this law. All creation is bound by it; to its reason and its exactness.”</para>
+   <para>“Please, Virtue, I do not understand,” I stammered.</para>
+   <para>“Traveler, observe the abacus.” Virtue tilted the abacus so that the beads fell to one side. “Does not the consequence of addition create an added gain?”</para>
+   <para>“Yes, of course,” I agreed, though still perplexed.</para>
+   <para>“So the consequence of every creature, reconciled or not, may benefit from another’s good and honorable practice. There is no distinction. They are all his creatures, and are bound by the laws of his universe. Know then, that the creator knows their reward.”</para>
+   <para>“Then, the reconciled will have earthly reward for their good deeds,” I surmised.</para>
+   <para>“To what good is earthly reward? Look upon my face! Is it a benefit to live in such cruel condition? No! For those who do good, the treasures of heaven are patiently laid up. They are not kept here, where man and animals may consume them. They are stored in vaults which are sealed for the great day when all will be fulfilled. Then they will enjoy them in communion with their creator. Still, the labour of good yields the fruit of a content life.”</para>
+   <para>Tilting the abacus to the opposite side, the beads made a cracking noise as they aligned on the other end of their string. He continued, “Likewise, Traveler, in the same way, does not the consequence of subtraction create further lack?”</para>
+   <para>“Yes. It is simple math,” I answered.</para>
+   <para>“So will the reconciled contribute to the consequence of harm and destruction. This is the reality of their irony. These rules are given to all. In the same way, those he has reconciled receive the ill consequence and choice of all creation. They are pained by those who choose to harm, just as all creation may be pained by the ability for the reconciled to harm.”</para>
+   <para>“Then the reconciled are left with no assistance even though they among all creation will surely find themselves as obscure?” I asked, despondently.</para>
+   <para>Virtue paused, asking, “Do you see the lamp in my left hand?” raising the lamp high above me.</para>
+   <para>“Yes.”</para>
+   <para>The child clarified, “It is the purpose of the reconciled. They are keepers of the creator’s flame. The creator has not left them alone, but has even himself comforted them. Yes! How marvelous that he might choose to inhabit the reconciled, even in their consequenced and ill state; his presence, a down payment for his not yet realized promise.”</para>
+   <para>“Behold how the flame exposes its light. It is effortless, is it not?”</para>
+   <para>“Virtue, the light which emits from it is brilliant, even challenging to my eyes,” I responded.</para>
+   <para>“Yes. It is the consequence of this lamp. So ignorance finds itself challenged by its purpose, even displaced. What lamp, which is truly useful, finds obscurity to be familiar. No, a lamp finds itself unable to be anything but a creator of vision, and an intruder to the hazards of darkness’ disregard. The consequence of its flame even gives clarity and benefit to the insight and knowledge of all around it. For those who lack discernment are no longer able to stumble and harm in ignorance. They are called into account, just as you are now called into account.”</para>
+   <para>“Even so, Traveler, the light of this chamber and these four great thrones have now left you without excuse. Come, Deacon, give to him his lamp and have him light it from my own. He is now without excuse, and has been given great things. This lamp will guide his path and lead him through the chaos, to where he must return. In so doing, others will perceive the fortitudes of these revelations, and hopelessness will be overcome.”</para>
+   <para>The Deacon reached from under his robe and pulled out a small lamp, which was similar to the young child’s who had led me from the darkness. He then commanded me to step forward and light it from Virtue’s own lamp. I stepped forward and gathered the flame unto my own.</para>
+   <para>Virtue entreated, “Traveler, tend now to the Deacon’s arm and to his lead. You have tested what is necessary for your further journey, and now you must return to the void from whence you came. There are others who must come to know the light you have seen, so go. But be mindful of those who dwell within these walls, those who have not heeded the words of our thrones. You have tested our truths, but do not think yourself unable to be misguided. The wanderers’ words are hollow, and they seek to find others to comfort them. Understand, it is not your purpose to remain within these walls, it is your purpose to go. Go, knowing your reconciliation is free. So you must go and freely give, mercifully. For the creator is merciful and he desires mercy, not sacrifice.”</para>
+   <para>The Deacon then took my arm, turning me around to face the chamber. As I began to direct my eyes yet again to my path he spoke to me saying, “Traveler, you must look up now and see this chamber of light, the thrones and the wayfarers herein. You must perceive and understand them. Let us continue along your journey. You have more to see and I must attend to it. Come, let us proceed.”</para>
+	</chapter>
+	
+	<appendix>
+		<title>Postscript</title>
+ 		<para>There was still more to recount, as my journey had only yet begun. There were others I would meet, the misguided wayfarers who wandered in the chamber. Their misgivings would grant further clarity to the thrones’ revelations. Then into the chaos once again where I would travel amidst those who were at their journey’s beginning.</para>
+ 		<para>But for now I must ponder. Perhaps, for now, it is enough that I have penned this account of my journey’s beginnings. Having tested the spoils of knowledge, I can only pray heaven might now favor me to rest.</para>
+	</appendix>
+	
+	<appendix>
+		<title>Upcoming Works</title>
+   	<sect1>
+			<title>Religiously Speaking</title>
+   		<para>D.a.’s upcoming work considering the legitimacy of religion in a secular society.</para>
+		</sect1>
+		<para>***</para>
+		<sect1>
+			<title>Over Breakfast: A Conversation For Civil Partnership &amp; Conservative Sacrament</title>
+	   	<para>A narrative piece set in a breakfast diner intending to present a conversation for the mutual protection of church marital sacrament and the equality of law concerning civil partnership.</para>
+		</sect1>
+	</appendix>
+	
+</book>

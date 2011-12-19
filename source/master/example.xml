@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!DOCTYPE book PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN"
+                    "http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd">
+
+<book>
+  <title>&productname; User Manual</title>
+
+  <author>Indigo Riceway</author>
+
+  <preface id="preface">  
+    <title>Preface</title>
+
+    <sect1 id="about">
+      <title>Availability</title>
+
+<!-- Note to author: maybe put a picture here? -->
+
+      <para>
+
+The information in this manual is available in the following forms:
+      </para>
+
+      <itemizedlist>
+
+        <listitem><para>
+Instant telepathic injection
+        </para></listitem>
+        <listitem><para>
+Lumino-goggle display
+        </para></listitem>
+        <listitem><para>
+Ink on compressed, dead, arboreal matter
+        </para></listitem>
+        <listitem><para>
+Cuneiform etched in clay tablets
+        </para></listitem>
+      </itemizedlist>
+
+      <para>
+The &productname; is sold in galactic pamphlet boutiques or wherever 
+&companyname; equipment can be purchased. For more information, or 
+to order a copy by hyperspacial courier, please visit our universe-wide 
+Web page at <systemitem 
+
+role="url">http://www.cybertronix.com/sonic_screwdrivers.html</systemitem>.
+      </para>
+    </sect1>
+
+    <sect1 id="disclaimer">
+      <title>Notice</title>
+      <para>
+While <emphasis>every</emphasis>
+
+effort has been taken to ensure the accuracy and
+usefulness of this guide, we cannot be held responsible for the
+occasional inaccuracy or typographical error.
+      </para>
+    </sect1>
+  </preface>
+
+
+  <chapter id="intro">
+
+    <title>Introduction</title>
+
+    <para>
+Congratulations on your purchase of one of the most valuable tools in
+the universe! The &companyname; &productname; is
+equipment no hyperspace traveller should be without. Some of the
+myriad tasks you can achieve with this device are:
+    </para>
+
+    <itemizedlist>
+      <listitem><para>
+Pick locks in seconds. Never be locked out of your tardis
+again. Good for all makes and models including Yale, Dalek, and
+Xngfzz.
+      </para></listitem>
+      <listitem><para>
+Spot-weld metal, alloys, plastic, skin lesions, and virtually any
+other material.
+      </para></listitem>
+      <listitem><para>
+Rid your dwelling of vermin. Banish insects, rodents, and computer
+viruses from your time machine or spaceship.
+      </para></listitem>
+      <listitem><para>
+Slice and process foodstuffs from tomatoes to brine-worms. Unlike a
+knife, there is no blade to go dull.
+      </para></listitem>
+    </itemizedlist>
+    <para>
+Here is what satisfied customers are saying about their &companyname;
+&productname;:
+    </para>
+
+    <comment> 
+
+Should we name the people who spoke these quotes?  --Ed.
+    </comment>
+
+    <blockquote>
+      <para>
+<quote>It helped me escape from the prison planet Garboplactor VI. I
+wouldn't be alive today if it weren't for my Cybertronix 9000.</quote>
+      </para>
+    </blockquote>
+
+    <blockquote>
+      <para>
+<quote>As a bartender, I have to mix martinis <emphasis>just
+right</emphasis>. Some of my customers get pretty cranky if I slip
+up. Luckily, my new sonic screwdriver from Cybertronix is so accurate,
+it gets the mixture right every time. No more looking down the barrel
+of a kill-o-zap gun for this bartender!</quote>
+      </para>
+    </blockquote>
+
+
+  </chapter>
+
+  <chapter id="controls">
+    <title>Mastering the Controls</title>
+
+    <sect1>
+      <title>Overview</title>
+
+      <para>
+<xref linkend="controls-diagram"/> is a diagram of the parts of your
+&productname;.
+      </para>
+
+      <figure id="controls-diagram">
+
+        <title>Exploded Parts Diagram</title>
+        <graphic fileref="parts.gif"/>
+      </figure>
+
+      <para>
+<xref linkend="controls-table"/>
+
+lists the function of the parts labeled in the diagram.
+      </para>
+
+      <table id="controls-table">
+
+        <title>Control Descriptions</title>
+        <tgroup cols="2">
+          <thead>
+            <row>
+              <entry>Control</entry>
+              <entry>Purpose</entry>
+            </row>
+          </thead>
+          <tbody>
+            <row>
+              <entry>Decoy Power Switch</entry>
+              <entry><para>
+Looks just like an on-off toggle button, but only turns on a small
+flashlight when pressed. Very handy when your &productname; is misplaced
+and discovered by primitive aliens who might otherwise accidentally
+injure themselves.
+              </para></entry>
+            </row>
+            <row>
+              <entry><emphasis>Real</emphasis> Power Switch</entry>
+              <entry><para>
+An invisible fingerprint-scanning capacitance-sensitive on/off switch.
+              </para></entry>
+            </row>
+            ...
+            <row>
+              <entry>The <quote>Z</quote> Twiddle Switch</entry>
+              <entry><para>
+We're not entirely sure what this does. Our lab testers have had
+various results from teleportation to spontaneous
+liquification. <emphasis role="bold">Use at your own risk!</emphasis>
+              </para></entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+
+      <note>
+        <para>
+A note to arthropods: Stop forcing your inflexible appendages to adopt
+un-ergonomic positions. Our new claw-friendly control template is
+available. 
+        </para>
+      </note>
+
+      <sect2 id="power-sect">
+        <title>Power Switch</title>
+
+        <sect3 id="decoy-power-sect">
+          <title>Why a decoy?</title>
+
+          <comment>
+Talk about the Earth's Tunguska Blast of 1908 here.
+          </comment>
+        </sect3>
+      </sect2>
+    </sect1>
+
+    <sect1>
+      <title>The View Screen</title>
+      <para>
+The view screen displays error messages and warnings, such as a
+<errorcode>LOW-BATT</errorcode>
+
+(low battery) message.<footnote> 
+
+        <para>
+The advanced model now uses a direct psychic link to the user's
+visual cortex, but it should appear approximately the same as the more
+primitive liquid crystal display.
+        </para>
+
+</footnote> When your &productname; starts up, it should
+show a status display like this: 
+      </para>
+
+                  
+
+      <screen>STATUS DISPLAY
+BATT: 1.782E8 V
+TEMP: 284 K
+FREQ: 9.32E3 Hz
+WARRANTY: ACTIVE</screen>
+    </sect1>
+
+    <sect1>
+      <title>The Battery</title>
+      <para>
+Your &productname; is capable of generating tremendous amounts of
+energy. For that reason, any old battery won't do. The power source is
+a tiny nuclear reactor containing a piece of ultra-condensed plutonium
+that provides up to 10 megawatts of power to your device. With a
+half-life of over 20 years, it will be a long time before a
+replacement is necessary.
+      </para>
+    </sect1>
+  </chapter>
+</book>

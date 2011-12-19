@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<package version="2.0" xmlns="http://www.idpf.org/2007/opf"
+         unique-identifier="BookId">
+ <metadata xmlns:dc="http://purl.org/dc/elements/1.1/"
+           xmlns:opf="http://www.idpf.org/2007/opf">
+   <dc:title>DREAMS &#38; JOURNEYS: The Cathedral</dc:title> 
+   <dc:creator opf:role="aut" opf:file-as="Thompson, D.a.">D.a. Thompson</dc:creator>
+   <dc:language>en</dc:language> 
+   <dc:rights>Copyright &#169; 2010 by D.a. Thompson. All Rights Reserved.</dc:rights> 
+   <dc:publisher>BlueHead Publishing (www.blueheadpublishing.com)</dc:publisher> 
+   <dc:identifier id="BookId">a79e4ca0-ba9f-11df-851a-0800200c9a66</dc:identifier>
+   <dc:description>DREAMS &#38; JOURNEYS: The Cathedral, is an allegorical story about the Traveler who finds himself in a dream where he encounters and converses with a number of characters including Four Great Thrones: Revelation, Justice, Mercy and Virtue. Each character represents and spurns on conversation regarding the Christian journey of thought. The allegory is meant to serve as a tool to communicate foundational elements of and to inspire reflection on the Christian world view.</dc:description>
+   <dc:date opf:event="publication">2010-09</dc:date>
+   <dc:contributor opf:role="edt" opf:file-as="Peterson, Erin H.">Erin H. Peterson</dc:contributor>
+   <dc:contributor opf:role="edt" opf:file-as="Bially, Günther">Günther Bially</dc:contributor>
+   <dc:contributor opf:role="edt" opf:file-as="Thoma, Kortney">Kortney Thoma</dc:contributor>
+   <dc:contributor opf:role="aui" opf:file-as="Warner, Jason">Jason Warner</dc:contributor>
+   <dc:contributor opf:role="bkp" opf:file-as="BlueHead Publishing">BlueHead Publishing</dc:contributor>
+   <dc:subject>Christian--Theology</dc:subject>
+   <dc:subject>Religious aspects--Christianity</dc:subject>
+   <meta name="cover" content="cover_image"/>
+  <!--  <meta name="cover" content="book-cover"/> -->
+  
+ </metadata>
+ <manifest>
+  <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml" />
+  <item id="style" href="stylesheet.css" media-type="text/css" />
+  <item id="pagetemplate" href="page-template.xpgt" media-type="application/vnd.adobe-page-template+xml" />
+  <item id="cover" href="cover.xhtml" media-type="application/xhtml+xml"/>
+  
+  <!-- Intros -->
+  <item id="title" href="title.xhtml" media-type="application/xhtml+xml" />
+  <item id="about" href="about.xhtml" media-type="application/xhtml+xml" />
+  <item id="toc" href="toc.xhtml" media-type="application/xhtml+xml" />
+  <item id="authors_note" href="authors_note.xhtml" media-type="application/xhtml+xml" />
+  <item id="preface" href="preface.xhtml" media-type="application/xhtml+xml" />
+
+  <!-- Main Content -->
+  <item id="c1" href="c1.xhtml" media-type="application/xhtml+xml" />
+  <item id="c2" href="c2.xhtml" media-type="application/xhtml+xml" />
+  <item id="c3" href="c3.xhtml" media-type="application/xhtml+xml" />
+  <item id="c4" href="c4.xhtml" media-type="application/xhtml+xml" />
+  <item id="c5" href="c5.xhtml" media-type="application/xhtml+xml" />
+  <item id="c6" href="c6.xhtml" media-type="application/xhtml+xml" />
+  <item id="c7" href="c7.xhtml" media-type="application/xhtml+xml" />
+  <item id="postscript" href="postscript.xhtml" media-type="application/xhtml+xml" />
+      
+  <!-- Closing -->
+  <item id="author" href="author.xhtml" media-type="application/xhtml+xml" />
+  <item id="upcoming" href="upcoming.xhtml" media-type="application/xhtml+xml" />
+  
+  <!-- Other items -->
+  <item id="cover_image" href="images/cover_image.png" media-type="image/png" />
+  <item id="headshot" href="images/headshot.png" media-type="image/png" />
+  <item id="worldunitingpress_logo" href="images/wu_press_sm_logo.gif" media-type="image/gif" />
+  <item id="script" href="images/script.png" media-type="image/png" />
+  <item id="license" href="images/by-nc-sa.eu.png" media-type="image/png" />
+ </manifest>
+ 
+ <spine toc="ncx">
+  <itemref idref="cover" linear="no"/>
+  <itemref idref="title" />
+  <itemref idref="about" />
+  <itemref idref="toc" />
+  <itemref idref="authors_note" />
+  
+  
+  <itemref idref="preface" />
+  <itemref idref="c1" />
+  <itemref idref="c2" />
+  <itemref idref="c3" />
+  <itemref idref="c4" />
+  <itemref idref="c5" />
+  <itemref idref="c6" />
+  <itemref idref="c7" />
+  <itemref idref="postscript" />
+  
+  
+  <itemref idref="author" />
+  <itemref idref="upcoming" />
+  
+ </spine>
+ <guide>
+   <reference type="cover" title="Cover" href="cover.xhtml" />
+   <reference type="title" title="Title" href="title.xhtml" />
+ </guide>
+</package>
