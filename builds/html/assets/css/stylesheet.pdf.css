@@ -412,11 +412,14 @@ div.chapter h1::before { content: "Chapter " counter(chapter) " \A"; }
 div.appendix {text-align: center;}
 
 div.author img {
-	margin: 0 0 1em 3em;
+	display: block;
+	margin: 0 auto 2em auto;
 	-moz-box-shadow: 5px 5px 5px #ccc; /* Firefox */
   -webkit-box-shadow: 5px 5px 5px #ccc; /* Safari, Chrome */
   box-shadow: 5px 5px 5px #ccc; /* CSS3 */
 }
+
+div.author, div.appendix { margin: 0 0 0 -28%;}
 
 div.frontcover h1::before {
   content: none;  /* that is, none */
